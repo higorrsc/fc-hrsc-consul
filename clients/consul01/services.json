@@ -1,6 +1,6 @@
 {
     "service": {
-        "id":"nginx",
+        "id": "nginx",
         "name": "nginx",
         "tags": ["web"],
         "port": 80,
@@ -10,6 +10,6 @@
             "http": "http://localhost",
             "interval": "10s",
             "timeout": "1s"
-          }
+        }
     }
 }
